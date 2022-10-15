@@ -1,0 +1,80 @@
+#home {
+    background-image: url("portback.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 250px;
+    color: #fff;
+}
+nav {
+    margin-bottom: -20px !important;
+    font-size: 20px;
+}
+p{
+    font-size: 15px;
+}
+#edu {
+    background-color: #ffd800;
+    padding: 20px;
+    box-shadow: 4px 5px 7px 5px black;
+}
+#icon {
+    font-size: 50px !important;
+}
+footer {
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+}
+#icon2 {
+    float: right;
+    margin-left: 20px;
+    font-size: 20px;
+}
+#icon1 {
+    font-size: 20px;
+}
+.fixed {
+    top: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+
+}
+#about {
+    background-image: url("aboutback.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#resume {
+    background-image: url("resumeback.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#skills {
+    background-image: url("skillsback.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#contact {
+    background-image: url("otherback.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+#other {
+    background-image: url("contactback.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+body {
+    background-color: #abb8c3;
+}
+#mydiv {
+    text-align: center;
+}
